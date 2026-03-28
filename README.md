@@ -1,17 +1,17 @@
-# Personal US Stock Portfolio Management System
+# Self-Study: Max-Heap and Heap Sort in Financial Analytics
 
-This repository contains the course project submission for **COMP8090SEF Data Structures and Algorithms**. The project is divided into two main components.
+## Introduction
+This section explores a new Data Structure (Max-Heap) and a new Algorithm (Heap Sort) that are not covered in the standard course curriculum. 
 
-## Repository Structure
+## Chosen Topics
+* **Data Structure**: Max-Heap. 
+  * *Application*: A Max-Heap is an excellent data structure for maintaining and quickly retrieving the "Top Performing Stocks" (e.g., highest daily return) without needing to sort the entire dataset constantly.
+* **Algorithm**: Heap Sort.
+  * *Application*: Used to efficiently sort a watchlist of stocks based on their historical returns.
+  * *Time Complexity*: O(n log n).
 
-### 1. Task 1: OOP-Based Application
-Located in the `Task1_Portfolio/` directory. A multi-module Python application for managing a personal US stock portfolio. 
-* **Core Concepts:** Implements Object-Oriented Programming (OOP) principles, including **Encapsulation**, **Inheritance**, and **Polymorphism**.
-* **Modules:** Structured into `main.py`, `models.py`, and `utils.py`.
+## Implementation Status
+The final implementation allows for interactive user input to rank stock performances using the Heap Sort algorithm. 
 
-### 2. Task 2: Data Structure & Algorithm Self-Study
-Located in the `Task2_DSA/` directory. An independent exploration of a data structure and an algorithm not covered in the standard curriculum.
-* **Data Structure:** Max-Heap.
-* **Algorithm:** Heap Sort (Time Complexity: O(n log n)).
-
-Please navigate to the respective subdirectories for specific source code files and detailed explanations.
+## Usage
+Please refer to the `User_Guide.md` file in this directory for instructions on how to run the script.
