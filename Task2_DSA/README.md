@@ -19,3 +19,4 @@ This section explores a new Data Structure (Max-Heap) and a new Algorithm (Heap 
 ## Implementation Status
 
 Preliminary code for executing Heap Sort on stock return data is included in `heap_analytics.py`.
+task2:https://youtu.be/O7fJAH8WwkU
