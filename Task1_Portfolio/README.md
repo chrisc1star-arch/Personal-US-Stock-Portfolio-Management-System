@@ -15,3 +15,4 @@ Managing a personal investment portfolio requires tracking stock positions, calc
 
 ## Usage
 Please refer to the `User_Guide.md` file in this directory for instructions on how to run and operate the application.
+task1:https://youtu.be/ZsYVNXoBJdk
